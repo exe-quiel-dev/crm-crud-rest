@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Mariano",
+      "email": "Correo@correo.com",
+      "telefono": "0981972321",
+      "empresa": "developer's",
+      "id": 27
+    },
+    {
+      "nombre": "Alejandra Martinez",
+      "email": "alejandra@correo.com",
+      "telefono": "1239817624",
+      "empresa": "Una Empresa",
+      "id": 28
+    },
+    {
+      "nombre": "Miguel",
+      "email": "correro@correo.com",
+      "telefono": "6654654",
+      "empresa": "Empresa3",
+      "id": 29
+    }
+  ]
+}
